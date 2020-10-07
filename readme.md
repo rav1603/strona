@@ -1,4 +1,4 @@
-![cover](https://rav1603.github.io/og-rl.png)
+![cover](/public/og-rl.png)
 
 # RAFAŁ ŁUKOWSKI - FULL-STACK DEVELOPER 
 
